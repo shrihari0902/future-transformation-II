@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/venv/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.pytest_cache/
+.env
+*.sqlite
+*.sqlite3
+backend/keys/*.pem
+!backend/keys/.gitkeep
+.DS_Store
+.vscode/
+.idea/
